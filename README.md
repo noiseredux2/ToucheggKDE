@@ -39,7 +39,3 @@ source ~/.bashrc
 ```
 
 ## 
-
-
-###### Tags (Please Ignore)
-<sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>kde,gestures,macos,kde plasma,touchpad gestures,linux gestures,linux touchpad gestures,macos theme,linux gestures touchpad,touchpad gestures ubuntu,kde connect features,linux multitouch gestures,add multi touch trackpad gestures on linux,elementary os gestures,fusuma gestures,trackpad gestures,gestures elementary os,kde plasma customization,mouse gestures,kde connect ubuntu,linux touchpad gestures like mac,touchegg gestures,gestures on ubuntu,linux trackpad gestures,trackpad gestures linux, linux,linux gestures,linux touchpad gestures,gestures,touchpad gestures,linux multitouch gestures,linux gestures touchpad,linux distro,add multi touch trackpad gestures on linux,linux help,linux 2019,linux tutorial 2019,mac trackpad gestures,trackpad gestures,linux gesture mac,gesture su linux,linux gesture,linux trackpad gestures,trackpad gestures linux,macbook-like gestures linux,touchpad gestures linux,swipe gestures for linux,linux touchpad gestures like mac,touchpad gestures linux mint</sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
